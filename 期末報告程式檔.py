@@ -2,7 +2,7 @@
 """
 Created on Wed Jun 5 17:32:06 2024
 
-@author: jenny, jacky, carol
+@author: jenny
 """
 
 import os
